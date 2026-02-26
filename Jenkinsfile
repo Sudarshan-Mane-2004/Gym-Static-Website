@@ -5,7 +5,7 @@ pipeline {
         SERVER_IP     = '172.31.7.242'
         SSH_CREDENTIAL = 'gym-key'
         REPO_URL      = 'https://github.com/Sudarshan-Mane-2004/Gym-Static-Website.git'
-        BRANCH        = 'main'
+        BRANCH        = 'master'
         REMOTE_USER   = 'ec2-user'
         REMOTE_PATH   = '/var/www/html'
     }
